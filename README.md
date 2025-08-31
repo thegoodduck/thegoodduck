@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @thegoodduck
-- 👀 I’m interested in development and jobs
-- 🌱 I’m currently learning how to make good code
-- 📫 How to reach me raspberry400@mail.com
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I am coding for two years, and learned Linux Bash before Python
-- I know Bash, Python, Javascript, Html/CSS, Powershell and Markdown(learning)
+# Hi, I’m Viktor 👋
+I’m a 13-year-old Python developer passionate about building **privacy-focused apps, network tools, and web applications**.  
+I love experimenting with **decentralized systems** and creating practical projects that solve real problems.  
 
-<!---
-thegoodduck/thegoodduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠 Skills & Technologies
+- **Languages:** Python 🐍, Bash, JavaScript, HTML/CSS  
+- **Frameworks/Libraries:** Flask, PyQt5, Scapy, WeasyPrint, ReportLab  
+- **Tools & Platforms:** Linux, Git, PDF generation, Networking & Security  
+
+---
+
+## 🚀 Projects
+- [**Dillusion**](https://github.com/thegoodduck/Dillusion) — Lightweight privacy-focused web browser  
+- [**NetSour**](https://github.com/thegoodduck/NetSour) — Real-time packet sniffer & analyzer  
+- [**RSSX**](https://github.com/thegoodduck/RSSX) — Decentralized social media platform  
+- [**Pattern Generator**](https://github.com/thegoodduck/Pattern_Generator) — Customizable pattern & PDF generator
+-  [**InterPoll**](https://github.com/thegoodduck/InterPoll) — Decentralized and tamper-proof votes/polls.
+
+---
+
+## 💡 About Me
+I’m learning by **building cool tools** and exploring new ideas.  
+I enjoy **hands-on projects**, tackling challenges, and improving every day.  
+
+---
+
+## 📫 Contact
+- Email: `raspberry400@mail.com`
+- GitHub: [@thegoodduck](https://github.com/thegoodduck)
+
+---
+
+> “Never gonna give you up, never gonna let you down.” 
