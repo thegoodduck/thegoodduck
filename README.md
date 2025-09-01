@@ -36,8 +36,7 @@ I love experimenting with **decentralized systems** and creating practical proje
 ---
 
 ## About Me
-I’m learning by **building cool tools** and exploring new ideas.  
-I enjoy **hands-on projects**, tackling challenges, and improving every day.  
+I enjoy building badass stuff.
 
 ---
 
