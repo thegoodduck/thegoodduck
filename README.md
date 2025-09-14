@@ -6,8 +6,8 @@ I love experimenting with **decentralized systems** and creating practical proje
 
 ## Skills & Technologies
 - **Languages:** Python, Bash, JavaScript, HTML/CSS  
-- **Frameworks/Libraries:** Flask, PyQt5, Scapy, WeasyPrint, ReportLab  
-- **Tools & Platforms:** Linux, Git, PDF generation, Networking & Security  
+- **Frameworks/Libraries:** Flask, Django, VueJS, Vite
+- **Tools & Platforms:** Linux, Git, Visual Studio Code, Brave, Github Copilot, ChatGPT
 
 ---
 
