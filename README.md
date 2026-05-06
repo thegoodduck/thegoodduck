@@ -16,7 +16,7 @@ I love experimenting with **decentralized systems** and creating practical proje
 - [**NetSour**](https://github.com/thegoodduck/NetSour) — Real-time packet sniffer & analyzer  
 - [**RSSX**](https://github.com/thegoodduck/RSSX) — Decentralized social media platform  
 - [**Pattern Generator**](https://github.com/thegoodduck/Pattern_Generator) — Customizable pattern & PDF generator  
-- [**InterPoll**](https://github.com/thegoodduck/InterPoll) — Decentralized and tamper-proof votes/polls  
+- [**InterPoll**](https://github.com/theendless11/InterPoll) — Decentralized and tamper-proof votes/polls  
 
 ---
 
