@@ -1,5 +1,5 @@
 # Hi, I’m Viktor
-I’m a 13-year-old Python developer passionate about building **privacy-focused apps, network tools, and web applications**.  
+I’m a 14-year-old Python developer passionate about building **privacy-focused apps, network tools, and web applications**.  
 I love experimenting with **decentralized systems** and creating practical projects that solve real problems.  
 
 ---
